@@ -7,8 +7,9 @@ I'm a Full Stack Developer specializing in technologies for the web.
 ### Technical Skills
 
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=61DBFB&logo=react&logoColor=000000)](#) 
-[![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=ffffff)](#)[![Javascript Badge](https://img.shields.io/badge/-Javascript-323330?style=for-the-badge&labelColor=323330&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=007acc&logo=typescript&logoColor=ffffff)](#) 
-[![Ruby Badge](https://img.shields.io/badge/-Ruby-cc0000?style=for-the-badge&labelColor=cc0000&logo=ruby&logoColor=ffffff)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=3C873A&logo=node.js&logoColor=ffffff)](#) 
+[![Next.js Badge](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&labelColor=black&logo=next.js&logoColor=ffffff)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-323330?style=for-the-badge&labelColor=323330&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=007acc&logo=typescript&logoColor=ffffff)](#) 
+[![Ruby Badge](https://img.shields.io/badge/-Ruby-cc0000?style=for-the-badge&labelColor=cc0000&logo=ruby&logoColor=ffffff)](#) [![Nodejs Badge](https://img.shields.io/badge/-Node.js-3C873A?style=for-the-badge&labelColor=3C873A&logo=node.js&logoColor=ffffff)](#) 
 [![Express Badge](https://img.shields.io/badge/-Express-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=ffffff
 )](#)
 [![Ruby on Rails Badge](https://img.shields.io/badge/-ruby_on_rails-cc0000?style=for-the-badge&labelColor=cc0000&logo=rubyonrails&logoColor=ffffff
