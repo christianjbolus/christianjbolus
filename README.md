@@ -2,12 +2,6 @@
 
 I'm a Full Stack Developer specializing in technologies for the web.  
 <br>
-<br>
-
-[![Linkedin Badge](https://img.shields.io/badge/-Christian_Bolus-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianbolus/) [![Mail Badge](https://img.shields.io/badge/-christianjbolus-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:christianjbolus@gmail.com)
- [![Mail Badge](https://img.shields.io/badge/-@christianbolus-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/christianbolus/)
-[![Twitter Badge](https://img.shields.io/badge/-@ChristianJBolus-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/christianjbolus) 
-
 
 
 ### Technical Skills
@@ -24,5 +18,9 @@ I'm a Full Stack Developer specializing in technologies for the web.
 [![HTML5 Badge](https://img.shields.io/badge/-HTML5-e34c26?style=for-the-badge&labelColor=e34c26&logo=html5&logoColor=ffffff)](#)
 [![CSS3 Badge](https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&labelColor=264de4&logo=css3&logoColor=ffffff)](#)
 [![Git Badge](https://img.shields.io/badge/-git-f1502f?style=for-the-badge&labelColor=f1502f&logo=git&logoColor=ffffff)](#)
+<br>
 
-
+### Contact
+[![Linkedin Badge](https://img.shields.io/badge/-Christian_Bolus-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianbolus/) [![Mail Badge](https://img.shields.io/badge/-christianjbolus-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:christianjbolus@gmail.com)
+ [![Mail Badge](https://img.shields.io/badge/-@christianbolus-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/christianbolus/)
+[![Twitter Badge](https://img.shields.io/badge/-@ChristianJBolus-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/christianjbolus) 
